@@ -466,10 +466,10 @@ void insertionSort(vector<int>& arr) {
 }
 int main() {
     cout << "********************************************" << endl;
-    cout << "*      Welcome to Algo Visualizer          *" << endl;
-    cout << "*              Made by:                    *" << endl;
-    cout << "*   Yash Ganodiya and  Yogesh Choudhary    *" << endl;
-    cout << "*     E22CSEU0784 and  E22CSEU0804         *" << endl;
+    cout << "*        Welcome to Algo Visualizer        *" << endl;
+    cout << "*                 Made by:                 *" << endl;
+    cout << "*            Yogesh Choudhary              *" << endl;
+    cout << "*               E22CSEU0804                *" << endl;
     cout << "********************************************" << endl;
     while (true) {
         int operationChoice;
